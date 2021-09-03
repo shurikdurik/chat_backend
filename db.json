@@ -1,0 +1,310 @@
+{
+    "dialogs": [
+        {
+            "_id": "c7d844d080f7d64adafe849ae58ac56b",
+            "text": "Hi bro. Looking forwart to see you",
+            "isReaded": false,
+            "created_at": "parseISO('2014-02-11T11: 30: 30')",
+            "user": {
+                "_id": "c7d844d080f7d64adafe849ae58ac56b",
+                "fullName": "Alex Iats",
+                "avatar": null,
+                "isOnline": true
+            }
+        },
+        {
+            "_id": "sg3f44d080f7d64adafe849ae58ac56b",
+            "text": "Hope to see you soon, my brother. It will be legendary",
+            "isReaded": false,
+            "created_at": "parseISO('2014-02-11T11: 30: 30')",
+            "user": {
+                "_id": "c7d844d080f7d64adafe849ae58ac56b",
+                "fullName": "Roman Raz",
+                "avatar": null,
+                "isOnline": true
+            }
+        },
+        {
+            "_id": "c7d844d080f7d64adafe849ae58ac56b",
+            "text": "Hi bro. Looking forwart to see you",
+            "isReaded": false,
+            "created_at": "parseISO('2014-02-11T11: 30: 30')",
+            "user": {
+                "_id": "c7d844d080f7d64adafe849ae58ac56b",
+                "fullName": "Slava Bog",
+                "avatar": null,
+                "isOnline": true
+            }
+        },
+        {
+            "_id": "c7d844d080f7d64adafe849ae58ac56b",
+            "text": "Hi bro. Looking forwart to see you",
+            "isReaded": false,
+            "created_at": "parseISO('2014-02-11T11: 30: 30')",
+            "user": {
+                "_id": "c7d844d080f7d64adafe849ae58ac56b",
+                "fullName": "Stas Boy",
+                "avatar": null,
+                "isOnline": true
+            }
+        },
+        {
+            "_id": "c7d844d080f7d64adafe849ae58ac56b",
+            "text": "Hi bro. Looking forwart to see you",
+            "isReaded": false,
+            "created_at": "parseISO('2014-02-11T11: 30: 30')",
+            "user": {
+                "_id": "c7d844d080f7d64adafe849ae58ac56b",
+                "fullName": "Andre Sokol",
+                "avatar": null,
+                "isOnline": true
+            }
+        },
+        {
+            "_id": "c7d844d080f7d64adafe849ae58ac56b",
+            "text": "Hi bro. Looking forwart to see you",
+            "isReaded": false,
+            "created_at": "parseISO('2014-02-11T11: 30: 30')",
+            "user": {
+                "_id": "c7d844d080f7d64adafe849ae58ac56b",
+                "fullName": "Hui s Gory",
+                "avatar": null,
+                "isOnline": true
+            }
+        },
+        {
+            "_id": "c7d844d080f7d64adafe849ae58ac56b",
+            "text": "Hi bro. Looking forwart to see you",
+            "isReaded": false,
+            "created_at": "parseISO('2014-02-11T11: 30: 30')",
+            "user": {
+                "_id": "c7d844d080f7d64adafe849ae58ac56b",
+                "fullName": "Anna Letc",
+                "avatar": null,
+                "isOnline": true
+            }
+        }
+    ],
+    "messages": [
+        {
+            "_id": "6130c09b3bff21dac45953d7",
+            "text": "Commodo ipsum ut labore ad in est in qui excepteur ullamco aliqua.",
+            "created_at": "2003-03-31T13:43:34.894Z",
+            "user": {
+                "_id": "6130c09b885b8041b4bd503a",
+                "fullName": "dolor ex",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b1bf75e689c5dd078",
+            "text": "Cillum velit do minim sunt est veniam nulla labore proident.",
+            "created_at": "1993-08-08T06:10:10.879Z",
+            "user": {
+                "_id": "6130c09b14a949599753ec9c",
+                "fullName": "aliqua elit",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b3a1e69efd922df1f",
+            "text": "Tempor eiusmod aliqua do qui sunt cillum aliqua occaecat exercitation elit tempor.",
+            "created_at": "2000-02-02T18:39:23.913Z",
+            "user": {
+                "_id": "6130c09b4d2f8a92c047a41b",
+                "fullName": "veniam consectetur",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b465fc914036c4d24",
+            "text": "Culpa aliqua occaecat duis proident ut eiusmod.",
+            "created_at": "1971-05-15T23:54:24.968Z",
+            "user": {
+                "_id": "6130c09b3fd6cd9a53a0f911",
+                "fullName": "laborum elit",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b97f2718e540e1bc2",
+            "text": "Minim laboris labore deserunt laboris.",
+            "created_at": "1974-02-12T05:26:10.472Z",
+            "user": {
+                "_id": "6130c09bd1eb16e8e36263ca",
+                "fullName": "do pariatur",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09bcb35e9f2ca6fb1ab",
+            "text": "Nostrud laborum mollit occaecat aliqua ex proident ullamco eiusmod Lorem laborum.",
+            "created_at": "2008-02-05T13:29:32.692Z",
+            "user": {
+                "_id": "6130c09b7c00f3cb87c0f9f0",
+                "fullName": "mollit ipsum",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b6a21a6459fa5976a",
+            "text": "Sunt esse ex sit ullamco ipsum magna exercitation ex nisi exercitation in aliquip pariatur occaecat.",
+            "created_at": "1984-03-18T00:19:48.616Z",
+            "user": {
+                "_id": "6130c09bb00ea57f7103c400",
+                "fullName": "ullamco fugiat",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09bf1af95ecb2ffeed7",
+            "text": "Amet sint aliqua consectetur quis adipisicing occaecat anim minim esse aute officia adipisicing cupidatat.",
+            "created_at": "2017-12-28T01:18:12.528Z",
+            "user": {
+                "_id": "6130c09b79264ed4c22a919b",
+                "fullName": "excepteur est",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b3b87f1d19706623b",
+            "text": "Sit occaecat sunt aliqua est labore cillum nulla est.",
+            "created_at": "1987-12-11T06:02:21.303Z",
+            "user": {
+                "_id": "6130c09b25db2f6609d68253",
+                "fullName": "nisi dolore",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b84b869c02be29481",
+            "text": "Sit aliqua est minim sint excepteur veniam sit ut fugiat veniam aliqua.",
+            "created_at": "1988-08-09T08:13:50.906Z",
+            "user": {
+                "_id": "6130c09b1103e17063b32c11",
+                "fullName": "anim ipsum",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b8f8b929ed08132e1",
+            "text": "Sunt enim nulla enim enim nisi et et est ad dolore.",
+            "created_at": "1987-12-24T22:23:09.811Z",
+            "user": {
+                "_id": "6130c09bfab4b7c55298766a",
+                "fullName": "esse fugiat",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b6310768608491729",
+            "text": "Qui commodo veniam sint incididunt voluptate nostrud magna.",
+            "created_at": "1973-05-13T18:56:01.105Z",
+            "user": {
+                "_id": "6130c09b5215a936446545ab",
+                "fullName": "est deserunt",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09bfbff871ac2ed90de",
+            "text": "In dolor cupidatat aliqua exercitation culpa duis minim deserunt culpa tempor.",
+            "created_at": "2017-07-25T15:27:52.349Z",
+            "user": {
+                "_id": "6130c09be73664f8855fb313",
+                "fullName": "eu pariatur",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b85e09f9fe6ee24b9",
+            "text": "Labore nostrud amet non excepteur culpa commodo fugiat aute enim ullamco.",
+            "created_at": "1975-10-16T07:29:03.356Z",
+            "user": {
+                "_id": "6130c09baf984ce296d36d61",
+                "fullName": "proident in",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b43e4e65b07c3e61d",
+            "text": "Ut veniam laborum id laboris dolore nulla Lorem mollit eu dolore.",
+            "created_at": "2011-04-15T06:02:48.668Z",
+            "user": {
+                "_id": "6130c09b9949d520487f46e8",
+                "fullName": "ea dolore",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b5986e74a81ab6b30",
+            "text": "Officia in exercitation esse in consequat culpa sint.",
+            "created_at": "2011-01-07T10:58:59.945Z",
+            "user": {
+                "_id": "6130c09b9348ce8c25500377",
+                "fullName": "pariatur est",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b91ad3c8d2de31295",
+            "text": "Aute eiusmod occaecat incididunt consectetur occaecat quis Lorem aute tempor laborum exercitation in et eu.",
+            "created_at": "1991-06-16T18:36:21.391Z",
+            "user": {
+                "_id": "6130c09b91dc1d83f59d0755",
+                "fullName": "culpa eu",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b7b7b090c2b93e444",
+            "text": "Ad cupidatat magna exercitation veniam ullamco pariatur fugiat proident excepteur mollit nostrud deserunt esse.",
+            "created_at": "1979-02-25T09:02:42.860Z",
+            "user": {
+                "_id": "6130c09b09a9dc7939dc0fbb",
+                "fullName": "esse incididunt",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09be921f6f438865dd6",
+            "text": "Sit in fugiat est ad qui aliquip pariatur culpa elit dolore amet quis eiusmod.",
+            "created_at": "1977-07-30T19:13:33.591Z",
+            "user": {
+                "_id": "6130c09bd654aaa98afcec59",
+                "fullName": "mollit ut",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        },
+        {
+            "_id": "6130c09b42cd69e118c6cadf",
+            "text": "Sit adipisicing proident ut Lorem irure qui cupidatat ad laboris.",
+            "created_at": "2015-11-06T09:56:50.049Z",
+            "user": {
+                "_id": "6130c09bf507063cc9488397",
+                "fullName": "incididunt cillum",
+                "avatar": null
+            },
+            "dialog": "c7d844d080f7d64adafe849ae58ac56b"
+        }
+    ]
+}
